@@ -57,11 +57,7 @@ Chatbot'a aşağıdaki gibi sorular sorabilirsiniz:
 - "Nolan'ın filmi hakkında bilgi verir misin?"
 - "Dram türündeki filmler hangileri?"
 
-## 🖼️ Ekran Görüntüsü
-![alt text](image.png)
-
-(Buraya chatbot'un çalışan halinin bir ekran görüntüsünü ekleyebilirsin)
-
 ## Web Linki: https://huggingface.co/spaces/dorukcelik/film-oneri-chatbot
 
+## 🖼️ Ekran Görüntüsü
 ![alt text](image-1.png)
